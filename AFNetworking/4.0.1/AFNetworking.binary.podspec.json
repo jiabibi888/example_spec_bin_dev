@@ -9,7 +9,7 @@
     "Mattt Thompson": "m@mattt.me"
   },
   "source": {
-    "http": "http://192.168.50.150:20480/frameworks/AFNetworking/4.0.1/zip",
+    "http": "http://10.102.52.65:8080/frameworks/AFNetworking/4.0.1/zip",
     "type": "zip"
   },
   "platforms": {

@@ -9,7 +9,7 @@
     "Jianghuai Li": "li6185377@163.com"
   },
   "source": {
-    "http": "http://192.168.50.150:20480/frameworks/LKDBHelper/2.5.3/zip",
+    "http": "http://10.102.52.65:8080/frameworks/LKDBHelper/2.5.3/zip",
     "type": "zip"
   },
   "platforms": {
