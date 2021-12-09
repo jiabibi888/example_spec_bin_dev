@@ -1,0 +1,23 @@
+{
+  "name": "ZJBTableViewModel",
+  "version": "0.1.0",
+  "summary": "TableViewModel方便UITableView的开发",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n TableViewModel方便UITableView的开发，便于UI修改迭代",
+  "homepage": "https://github.com/jiabibi888/ZJBTableViewModel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jabir": "zjb11934@ly.com"
+  },
+  "source": {
+    "http": "http://localhost:8080/frameworks/ZJBTableViewModel/0.1.0/zip",
+    "type": "zip"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZJBTableViewModel/Classes/**/*",
+  "vendored_frameworks": "ZJBTableViewModel.framework"
+}
